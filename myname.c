@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("³¢®Ñ®®\n");
+    printf("S\n");
 }
